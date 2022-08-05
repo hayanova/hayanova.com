@@ -80,7 +80,7 @@ h1.font-size-5em {
     font-size: 5em;
 }
 
-p {
+p, ul.blurb {
     font-size: 20px;
     line-height: 1.5;
     font-weight: 400;
@@ -236,6 +236,10 @@ a.cta-link:hover {
 
 .margin-bottom-5 {
     margin-bottom: 40px;
+}
+
+.margin-left-3em {
+    margin-left: 3em;
 }
 
 .align-items-center {
