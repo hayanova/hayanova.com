@@ -188,7 +188,7 @@ ul.nav a {
 
 .line {
     text-decoration: underline;
-    text-underline-offset: -0.19em;
+    text-underline-offset: -0.125em;
     text-decoration-thickness: 0.12em;
     text-decoration-skip-ink: none;
     text-decoration-color: #44E2AE;
